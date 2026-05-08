@@ -6,4 +6,14 @@
 cechy → szyfr → serwer (model na ciphertextach) → zaszyfrowany wynik → deszyfr → decyzja
 ```
 
-**Dokumenty:** [temat.md](temat.md) (uzasadnienie, MVP, demo) · [requirements.md](requirements.md) (specyfikacja). Kod i setup — wraz z implementacją.
+## Dane
+
+Pobierz dane do `data/raw/`:
+
+```bash
+python scripts/download_data.py
+```
+
+## Dokumenty
+
+[temat.md](temat.md) (uzasadnienie, MVP, demo) · [requirements.md](requirements.md) (specyfikacja).
